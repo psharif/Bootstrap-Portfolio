@@ -1,0 +1,41 @@
+.align-right {
+	/*margin-left: 1100px;*/
+	color: orange;
+	border:2px solid red;
+}
+
+.move-right {
+	margin-left: 70px;
+}
+
+header {
+	margin-bottom: 0;
+	padding-bottom: 0;
+	height: 90px;
+	border: 2px solid red;
+	line-height: 74px; 
+	vertical-align: middle; 
+	border-bottom: 2px solid grey;
+}
+
+header h1 {
+	width: 30%;
+	height: 86px;
+	font-size: 1.5em;
+	text-align: center; 
+	line-height: 90px; 
+	background-color: #4aaaa5;
+	color: white;
+	vertical-align: center;
+}
+
+.nav-item{
+	margin: 0px;
+	padding: 0px;
+}
+
+header ul {
+	margin: right;
+	height: 90px;
+	border: 2px solid black;
+}
